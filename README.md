@@ -1,7 +1,7 @@
 # //To set username and email in Git to create new repository:
 
-git config --global user.name 
-git config --global user.email 
+git config --global user.name
+git config --global user.email
 //To check username and email we use this command:
 git config --list
 
@@ -50,13 +50,10 @@ INIT: use to create a new git Repo:
 5-(git branch -M (main ))
 6-(git push origin main)
 
-
-
-# I adding this extra for cheking 
 # Branch Command:
+
 1- (git branc) //to check in which branch we are.
 2- (git branch -M (main))//to renae bracnh.
 3- (git checkout <branchName>)//to navigae.
 4- (git checkout -b <NewBranchName>//to create branch)
-5- (git checkout -d <branchName>) //to delete branch 
-
+5- (git checkout -d <branchName>) //to delete branch
