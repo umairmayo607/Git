@@ -12,8 +12,10 @@ use ls -a to watch hidden folders and file
 
 # Clone & Status
 
-Clone: git clone <Link of Repository>
-status git status
+Clone:
+(git clone <Link of Repository>)
+status:
+(command: git status)
 
 # 4 stages when we change our code:
 
@@ -26,10 +28,11 @@ status git status
 
 Add:
 add new or change file in your workind directory to the git staging area:
-git add <file name>
+(git add <file name>)
 Commit:
-git commit -m "some message"
+(git commit -m "some message")
 
 # Push Command:
+
 push: upload LOCAL REPO content to REMOTE REPO
-git push origin main
+(command: git push origin main)
