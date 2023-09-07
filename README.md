@@ -56,3 +56,4 @@ INIT: use to create a new git Repo:
 3- (git checkout <branchName>)//to navigae.
 4- (git checkout -b <NewBranchName>//to create branch)
 5- (git checkout -d <branchName>) //to delete branch 
+
