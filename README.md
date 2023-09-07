@@ -29,3 +29,7 @@ add new or change file in your workind directory to the git staging area:
 git add <file name>
 Commit:
 git commit -m "some message"
+
+# Push Command:
+push: upload LOCAL REPO content to REMOTE REPO
+git push origin main
