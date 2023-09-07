@@ -50,6 +50,9 @@ INIT: use to create a new git Repo:
 5-(git branch -M (main ))
 6-(git push origin main)
 
+
+
+# I adding this extra for cheking 
 # Branch Command:
 1- (git branc) //to check in which branch we are.
 2- (git branch -M (main))//to renae bracnh.
