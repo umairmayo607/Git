@@ -36,3 +36,16 @@ Commit:
 
 push: upload LOCAL REPO content to REMOTE REPO
 (command: git push origin main)
+
+# INT COMMAND:
+
+INIT: use to create a new git Repo:
+
+# In all these steps we will also follow add & commit
+
+1-(git init)
+2-(git remote add origin <link of repo>)
+3-(git remote -v) //to verify
+4-(git branch) //to chech branch
+5-(git branch -M (main ))
+6-(git push origin main)
